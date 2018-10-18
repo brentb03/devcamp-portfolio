@@ -60,3 +60,5 @@ gem 'devise', '~> 4.5'
 gem 'bootstrap', '~> 4.0.0'
 
 gem 'jquery-rails'
+
+gem 'barrilleaux_view_tool', git: 'https://github.com/brentb03/barrilleaux_view_tool'
